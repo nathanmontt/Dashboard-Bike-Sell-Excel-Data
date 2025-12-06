@@ -1,7 +1,3 @@
-# Dashboard-Bike-Sell-Excel-Data
-Primeiro projeto voltado para o entendimento de criação de dashboard em Excel, o que inicia minha jornada à Análise de Dados
-
-<!-- [Opcional: Centralização e logo] -->
 <div align="center">
   <h1>Dashboard de Venda de Bikes</h1>
   <p>Primeiro projeto de criação de um dashboar via Microsoft Excel</p>
